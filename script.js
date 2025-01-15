@@ -193,8 +193,8 @@ function addUserLocationMarker() {
 
 // Lokasi parkir
 const parkingLocations = [
-  { name: "Parkir A", coordinates: [107.580642, -6.883722] },
-  { name: "Parkir B", coordinates: [107.579529, -6.882788] },
+  { name: "Hospital A", coordinates: [107.580642, -6.883722] },
+  { name: "Hospital B", coordinates: [107.579529, -6.882788] },
 ];
 
 function findNearestLocation(userCoordinates, locations) {
